@@ -33,7 +33,7 @@ ser adicionadas para tornar o grafo conexo.
 
 import java.util.Scanner;
 
-public class BFS {
+public class Main {
 
 	//preenche a matriz passada como parâmetro com 0 em todas as posições
 	public static void preenche(int[][] matriz){
